@@ -6,7 +6,7 @@ class Config(object):
     OWNER_ID= 7081234335
     
     SUPPORT_CHAT = @arshuu_69
-    START_IMG = ""
+    START_IMG = https://te.legra.ph/file/cdff5691af1ba33d28379.jpg
     EVENT_LOGS = -1002195635749
     MONGO_DB_URI= mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority
    
