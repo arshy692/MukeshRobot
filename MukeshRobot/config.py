@@ -1,9 +1,9 @@
 class Config(object):
     LOGGER = True
-    API_ID = "27383453"
+    API_ID = 27383453
     API_HASH = "4c246fb0c649477cc2e79b6a178ddfaa"
     TOKEN = "7297897460:AAFlRiyc9yCPmR1dYAaNrxxkZdXJWS3spto"
-    OWNER_ID= "7081234335"
+    OWNER_ID= 7081234335
     
     SUPPORT_CHAT = "arshuu_69"
     START_IMG = "https://te.legra.ph/file/cdff5691af1ba33d28379.jpg"
